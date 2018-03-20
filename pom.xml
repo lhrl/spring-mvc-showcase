@@ -153,6 +153,18 @@
 			<version>2.0.1</version>
 		</dependency>
 
+		<!-- excel -->
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi</artifactId>
+			<version>3.14</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi-ooxml</artifactId>
+			<version>3.14</version>
+		</dependency>
+
 		<!-- Security (used for CSRF protection only) -->
 		<dependency>
 			<groupId>org.springframework.security</groupId>
